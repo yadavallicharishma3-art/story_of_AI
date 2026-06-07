@@ -139,6 +139,10 @@ video{
     border-radius: 12px;
     box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
 }
+audio{
+    display: block;
+    margin: 20px auto;
+}
 
 
 
